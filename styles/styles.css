@@ -91,6 +91,7 @@
 }
 .card-container{
     margin-top: 48px;
+    display: flex;
 }
 .card{
     width: 424px;
